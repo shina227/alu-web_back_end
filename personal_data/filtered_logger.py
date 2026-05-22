@@ -121,5 +121,6 @@ def main() -> None:
     cursor.close()
     db_connection.close()
 
+
 if __name__ == "__main__":
     main()
